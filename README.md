@@ -5,7 +5,7 @@
 
 - 🧠 I’m currently learning **TypeScript**
 
-- ⚡ Other stuff **I do 3D graphics as well**
+- ⚡ I like to do **3D graphics**
 
 </p>
 
