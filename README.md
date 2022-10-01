@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm YP501</h1>
 <h3 align="center">A hobbyist JavaScript programmer from the Netherlands</h3>
 
-- 🔧 I’m currently working on [Frankie's private discord bot](https://github.com/YP501/frankie-bot)
+- 🔧 I’m currently working on [scrappy-bot](https://github.com/YP501/scrappy-bot)
 
 - 🧠 I’m currently learning **TypeScript**
 
